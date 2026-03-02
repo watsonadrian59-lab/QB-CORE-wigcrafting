@@ -24,6 +24,9 @@ OR
 use your own CORE/SHOPS to tie this script together.
 
 
+" MLO COORDS [ -57.50, -209.44, 45.81, 337.76 ] "
+
+
 -- ################## SCRIPTS BY HAYABUSA ##################
 -- ################## SCRIPTS BY HAYABUSA ##################
 -- ################## SCRIPTS BY HAYABUSA ##################
