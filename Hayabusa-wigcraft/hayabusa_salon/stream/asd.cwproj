@@ -1,0 +1,45 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>hei_hw1_occl_00.ymap</Item>
+    <Item>hayabusa_salon_mlo.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>hayabusa_salon.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames>
+    <Item>hi@hw1_22_0.ybn</Item>
+    <Item>hw1_22_0.ybn</Item>
+    <Item>hayabusa_salon_col.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames>
+    <Item>ch_chint02_03_high_table.ydr</Item>
+    <Item>hw1_22_bb_01.ydr</Item>
+    <Item>hw1_22_malltest.ydr</Item>
+    <Item>hayabusa_salon_board1.ydr</Item>
+    <Item>hayabusa_salon_board2.ydr</Item>
+    <Item>hayabusa_salon_desk.ydr</Item>
+    <Item>hayabusa_salon_details.ydr</Item>
+    <Item>hayabusa_salon_door.ydr</Item>
+    <Item>hayabusa_salon_led1.ydr</Item>
+    <Item>hayabusa_salon_led2.ydr</Item>
+    <Item>hayabusa_salon_light.ydr</Item>
+    <Item>hayabusa_salon_mirrors.ydr</Item>
+    <Item>hayabusa_salon_naildesk.ydr</Item>
+    <Item>hayabusa_salon_neons.ydr</Item>
+    <Item>hayabusa_salon_paymentdesk.ydr</Item>
+    <Item>hayabusa_salon_reflex.ydr</Item>
+    <Item>hayabusa_salon_shelf.ydr</Item>
+    <Item>hayabusa_salon_shell.ydr</Item>
+    <Item>hayabusa_salon_frames.ydr</Item>
+  </YdrFilenames>
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames />
+</CodeWalkerProject>

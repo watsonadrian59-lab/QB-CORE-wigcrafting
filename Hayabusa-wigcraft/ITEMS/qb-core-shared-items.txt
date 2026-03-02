@@ -1,0 +1,92 @@
+['wig_crafting_table'] = {
+    ['name'] = 'wig_crafting_table',
+    ['label'] = 'Wig Crafting Table',
+    ['weight'] = 2000,
+    ['type'] = 'item',
+    ['image'] = 'wig_table.png',
+    ['unique'] = true,
+    ['useable'] = true,
+    ['shouldClose'] = true,
+    ['description'] = 'A portable table for crafting wigs.'
+},
+
+['wig_mesh'] = {
+    ['name'] = 'wig_mesh',
+    ['label'] = 'Wig Mesh',
+    ['weight'] = 200,
+    ['type'] = 'item',
+    ['image'] = 'wig_mesh.png',
+    ['unique'] = false,
+    ['useable'] = false,
+    ['shouldClose'] = false,
+},
+
+['wig_cap'] = {
+    ['name'] = 'wig_cap',
+    ['label'] = 'Wig Cap',
+    ['weight'] = 100,
+    ['type'] = 'item',
+    ['image'] = 'wig_cap.png',
+    ['unique'] = false,
+    ['useable'] = false,
+},
+
+['wig_glue'] = {
+    ['name'] = 'wig_glue',
+    ['label'] = 'Wig Glue',
+    ['weight'] = 50,
+    ['type'] = 'item',
+    ['image'] = 'wig_glue.png',
+    ['unique'] = false,
+    ['useable'] = false,
+},
+
+['hair_bundle'] = {
+    ['name'] = 'hair_bundle',
+    ['label'] = 'Hair Bundle',
+    ['weight'] = 300,
+    ['type'] = 'item',
+    ['image'] = 'hair_bundle.png',
+    ['unique'] = false,
+    ['useable'] = false,
+},
+
+['basic_wig'] = {
+    ['name'] = 'basic_wig',
+    ['label'] = 'Basic Wig',
+    ['weight'] = 500,
+    ['type'] = 'item',
+    ['image'] = 'basic_wig.png',
+    ['unique'] = true,
+    ['useable'] = true,
+},
+
+['premium_wig'] = {
+    ['name'] = 'premium_wig',
+    ['label'] = 'Premium Wig',
+    ['weight'] = 700,
+    ['type'] = 'item',
+    ['image'] = 'premium_wig.png',
+    ['unique'] = true,
+    ['useable'] = true,
+},
+
+['dyed_wig'] = {
+    ['name'] = 'dyed_wig',
+    ['label'] = 'Dyed Wig',
+    ['weight'] = 700,
+    ['type'] = 'item',
+    ['image'] = 'dyed_wig.png',
+    ['unique'] = true,
+    ['useable'] = true,
+},
+
+['color_dye'] = {
+    ['name'] = 'color_dye',
+    ['label'] = 'Wig Dye',
+    ['weight'] = 50,
+    ['type'] = 'item',
+    ['image'] = 'color_dye.png',
+    ['unique'] = false,
+    ['useable'] = false,
+},
